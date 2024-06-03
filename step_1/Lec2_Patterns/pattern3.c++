@@ -1,6 +1,3 @@
-
-
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -10,7 +7,7 @@ void print(int n)
     {
         for (int j = 1; j <= i; j++)
         {
-            cout<<"*";
+            cout<<j;
         }
         cout << endl;
     }
